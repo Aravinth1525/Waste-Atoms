@@ -1,6 +1,8 @@
 ## Waste Atoms
 
-Dont waste your time by surfing this site ! 🙂
+### Website - [Waste Atomes](https://wasteatoms.netlify.app/)
+
+❗ Pro tip : Dont waste your time by surfing this site ! 🙂
 
 ## Overview
 
