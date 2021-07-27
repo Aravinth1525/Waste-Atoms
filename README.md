@@ -6,6 +6,6 @@ A simple customizable design for websites !
 
 ## Image
 
-![Capture](https://user-images.githubusercontent.com/79074310/127168288-b1377993-abb4-4802-bdaa-ca029f436c7a.JPG)
+![Screenshot from 2021-07-27 20-21-16](https://user-images.githubusercontent.com/79074310/127176346-6e550de0-b552-4671-a82c-c074b9017285.png)
 
 
