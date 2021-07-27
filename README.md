@@ -1,8 +1,8 @@
 ## Waste Atoms
 
-### Website - [Waste Atoms](https://wasteatoms.netlify.app/)
+A simple customizable design for websites
 
-❗ Pro tip - Dont waste your time by surfing this site ! 🙂
+### Website - [Waste Atoms](https://wasteatoms.netlify.app/)
 
 ## Overview
 
