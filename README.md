@@ -1,7 +1,5 @@
 ## Waste Atoms
 
-A simple customizable design for websites !
-
 ### Preview - [Waste Atoms](https://wasteatoms.netlify.app/)
 
 ## Image
